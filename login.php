@@ -1,7 +1,6 @@
 <?php
 session_start();
 
-// Static credentials for demonstration
 $valid_username = 'admin';
 $valid_password = 'password';
 
